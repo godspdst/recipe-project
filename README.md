@@ -1,0 +1,1 @@
+Using the knowledge I learned from the Odin Project's HTML part of their Foundationals course, I'm creating a HTML-based recipe webpage. It won't be very fancy since I'm only using HTML. :)
